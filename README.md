@@ -3,7 +3,13 @@
 ## Starta server
 
 Kör igång terminalen
-kör 
+
+
+kör
+
+
   sudo service mysql restart
+  
+  
   sudo service restart apache2
   
