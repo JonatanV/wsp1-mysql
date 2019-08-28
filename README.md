@@ -16,3 +16,6 @@ kör
 kör
 
 	sudo mysql -u root
+	 
+	 grant all privileges *.* 'JonatanV'@'localhost' identidfied by 'password';
+
