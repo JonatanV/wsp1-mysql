@@ -17,5 +17,5 @@ kör
 
 	sudo mysql -u root
 	 
-	 grant all privileges *.* 'JonatanV'@'localhost' identidfied by 'password';
+	 grant all privileges *.* 'ANVNAMN'@'localhost' identidfied by 'LÖSEN';
 
