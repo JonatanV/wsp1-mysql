@@ -9,7 +9,7 @@ kör
 
   sudo service mysql restart
   
-  sudo service restart apache2
+  sudo service apache2 restart
 
 ## MYSQL
 **setup**
